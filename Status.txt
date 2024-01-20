@@ -1,0 +1,2 @@
+
+To create new repository in git hub
